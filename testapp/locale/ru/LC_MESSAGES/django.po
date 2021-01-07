@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-07 12:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\templates\main_translater.html:195
+msgid "Dashboard"
+msgstr "Приборная доска"
+
+#: .\templates\main_translater.html:200
+msgid "UI Elements"
+msgstr "Элементы пользовательского интерфейса"
+
+#: .\templates\main_translater.html:203
+msgid "CSS3 Animation"
+msgstr "CSS3 Анимации"
+
+#: .\templates\main_translater.html:204
+msgid "General"
+msgstr "Общий"
+
+#: .\templates\main_translater.html:205
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: .\templates\main_translater.html:206
+msgid "Tabs & Accordions"
+msgstr "Вкладки и аккордеоны"
+
+#: .\templates\main_translater.html:207
+msgid "Typography"
+msgstr "Типография"
+
+#: .\templates\main_translater.html:208
+msgid "FontAwesome"
+msgstr "FontAwesome"
+
+#: .\templates\main_translater.html:209
+msgid "Slider"
+msgstr "Слайдер"
+
+#: .\templates\main_translater.html:210
+msgid "Panels"
+msgstr "Панели"
+
+#: .\templates\main_translater.html:211
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: .\templates\main_translater.html:212
+msgid "Bootstrap Model"
+msgstr "Bootstrap модели"
+
+#: .\templates\main_translater.html:217
+msgid "Services"
+msgstr "Сервисы"
+
+#: .\templates\main_translater.html:220
+msgid "New Service 1"
+msgstr "Новый сервис 1"
+
+#: .\templates\main_translater.html:221
+msgid "New Service 2"
+msgstr "Новый сервис 2"
+
+#: .\templates\main_translater.html:222
+msgid "New Service 3"
+msgstr "Новый сервис 3"
+
+#: .\templates\main_translater.html:227
+msgid "New"
+msgstr "Новый контент"
+
+#: .\templates\main_translater.html:230
+msgid "New New 1"
+msgstr "Новый контент 1"
+
+#: .\templates\main_translater.html:231
+msgid "New New 2"
+msgstr "Новый контент 2"
+
+#: .\templates\main_translater.html:232
+msgid "New New 3"
+msgstr "Новый контент "
+
+#: .\templates\main_translater.html:238
+msgid "Profile"
+msgstr "Профиль"
+
+#: .\templates\main_translater.html:244
+msgid " Users"
+msgstr "Пользователь"
